@@ -1,0 +1,163 @@
+[
+    {
+        "Name":"indigo",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-16",
+        "Price": "₹1,614"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-16",
+        "Price": "₹1,869"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-16",
+        "Price": "₹2,133"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Delhi",
+        "Destination":"Chennai",
+        "Date": "2023-06-16",
+        "Price": "₹1,669"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Bengaluru",
+        "Destination":"Chennai",
+        "Date": "2023-06-17",
+        "Price": "₹1,579"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Mumbai",
+        "Destination":"Chennai",
+        "Date": "2023-06-17",
+        "Price": "₹1,369"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Delhi",
+        "Destination":"Chennai",
+        "Date": "2023-06-17",
+        "Price": "₹2,369"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Mumbai",
+        "Destination":"Chennai",
+        "Date": "2023-06-17",
+        "Price": "₹1,559"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Mumbai",
+        "Destination":"Bengaluru",
+        "Date": "2023-06-17",
+        "Price": "₹1,759"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Delhi",
+        "Destination":"Bengaluru",
+        "Date": "2023-06-18",
+        "Price": "₹1,859"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Chennai",
+        "Destination":"Mumbai",
+        "Date": "2023-06-18",
+        "Price": "₹1,789"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Delhi",
+        "Destination":"Bengaluru",
+        "Date": "2023-06-18",
+        "Price": "₹1,519"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-18",
+        "Price": "₹1,989"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-18",
+        "Price": "₹1,689"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Chennai",
+        "Destination":"Mumbai",
+        "Date": "2023-06-18",
+        "Price": "₹1,589"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Chennai",
+        "Destination":"Mumbai",
+        "Date": "2023-06-19",
+        "Price": "₹1,679"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-19",
+        "Price": "₹1,579"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Delhi",
+        "Destination":"Mumbai",
+        "Date": "2023-06-19",
+        "Price": "₹1,999"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Chennai",
+        "Destination":"Mumbai",
+        "Date": "2023-06-19",
+        "Price": "₹2,110"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Bengaluru",
+        "Destination":"Mumbai",
+        "Date": "2023-06-20",
+        "Price": "₹1,240"
+    },
+    {
+        "Name":"airAsia",
+        "Source":"Bengaluru",
+        "Destination":"Mumbai",
+        "Date": "2023-06-20",
+        "Price": "₹1,490"
+    },
+    {
+        "Name":"indigo",
+        "Source":"Mumbai",
+        "Destination":"Chennai",
+        "Date": "2023-06-20",
+        "Price": "₹1,560"
+    },
+    {
+        "Name":"vistara",
+        "Source":"Mumbai",
+        "Destination":"Chennai",
+        "Date": "2023-06-20",
+        "Price": "₹2,160"
+    }
+]
